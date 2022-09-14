@@ -1,0 +1,192 @@
+.dropdown:hover .dropdown-menu{
+    display: block;
+}
+
+#construction{
+    background-image: url(images/hd-4.jpg);
+    height: 590px;
+    width: 100%;
+    background-size: 100% 100%;
+    background-position: center;
+    background-attachment: fixed;
+    
+    
+}
+
+#carouselExampleInterval{
+    margin-top: 40%;
+}
+
+.play{
+    margin-top: 40%;
+    font-size: 2.5rem;
+}
+
+
+.three{
+    margin-top: -5%;
+}
+
+ul{
+    list-style: none;
+}
+
+#guaranteed{
+    background-color: whitesmoke;
+}
+
+.top{
+    background-image: url(images/image-5.jpg);
+    height: 300px;
+    width: 100%;
+    background-size: 100% 100%;
+}
+
+.card-resize{
+    width: 375px;
+    top: 35%;
+    margin-left: 43%;
+}
+
+.text-card{
+    font-size: 15px;
+}
+
+#build{
+    background-image: url(images/hd-5.jpg);
+    height: 40rem;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+
+.font-size{
+    font-size: 20px;
+}
+
+.justify-content-center {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+}
+
+.head{
+    margin-top: 10%;
+    margin-left: 10%; 
+}
+
+.height-5{
+    height: 5px !important;
+}
+
+.nav-pills .nav-link.active{
+    color: black !important;
+    background-color: white !important;
+    border: 0.5px solid grey;
+    border-radius: 0 !important;
+}
+
+.logo-png{
+    width: 40%;
+}
+
+.badge-margin{
+    margin-left: 48%;
+}
+
+.badge-margin-1{
+    margin-left: 40%;
+}
+
+.badge-margin-2{
+    margin-left: 26%;
+}
+
+.badge-margin-3{
+    margin-left: 58%;
+}
+
+button#v-pills-home-tab.nav-link, button#v-pills-messages-tab.nav-link, button#v-pills-profile-tab.nav-link, button#v-pills-settings-tab.nav-link {
+    color: black;
+}
+
+.container-top{
+    padding-top: 15%;
+}
+
+#international{
+    background-color: whitesmoke;
+}
+
+
+
+#molecule{
+    background-color: whitesmoke;
+}
+
+#discuss{
+    background-image: url(images/hd-13.jpg);
+    height: 40rem;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+.padding{
+    padding-top: 10%;
+    
+}
+
+
+
+#creative{
+    background-color: whitesmoke;
+}
+
+#footer{
+    background-color: whitesmoke;
+}
+
+@media screen and (max-width: 600px) {
+    #construction{
+        background-image: url(images/hd-4.jpg);
+        height: 590px;
+        width: 100%;
+        background-size: 100% 100%;
+        background-position: center;
+        background-attachment: fixed;
+        
+        
+    }
+
+    .top{
+        background-image: url(images/image-5.jpg);
+        height: 300px;
+        width: 100%;
+        background-size: 100% 100%;
+    }
+
+    #build{
+        background-image: url(images/hd-5.jpg);
+        height: 105rem;
+        width: 100%;
+        background-size: cover;
+        background-position: center;
+        background-attachment: fixed;
+        
+    }
+
+    #discuss{
+        background-image: url(images/hd-13.jpg);
+        height: 53rem;
+        width: 100%;
+        background-size: 100% 100%;
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+    }
+
+
+ 
+}
